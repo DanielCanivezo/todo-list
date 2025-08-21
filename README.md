@@ -22,6 +22,11 @@ Aplicação simples de lista de tarefas, desenvolvida como atividade de document
 - RNF07 – Compatibilidade com múltiplos navegadores (Chrome, Firefox, Edge, Safari)
 - RNF08 – Segurança básica contra injeção de código via input do usuário
 - RNF09 – Documentação clara do código e instruções de uso
+- RNF10 - Definir prioridade da tarefa
+- RNF11 - Definir data de vencimento (deadline)
+- RNF12 - Notificação de tarefa atrasada
+- RNF13 - Limpar todas as tarefas concluídas
+- RNF14 - Exportar lista de tarefas
 
 ## Entradas e Saídas
 - Entrada: Usuário digita uma tarefa
