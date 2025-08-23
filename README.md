@@ -11,6 +11,12 @@ Aplicação simples de lista de tarefas, desenvolvida como atividade de document
 - RF06 – Filtrar tarefas por status (concluídas/pending)
 - RF07 – Pesquisar tarefas por palavra-chave
 - RF08 – Ordenar tarefas por data de criação ou prioridade
+- RF09 – Definir prioridade para tarefas
+- RF10 – Definir categorias ou tags para tarefas
+- RF11 – Definir prazos (datas de vencimento) para tarefas
+- RF12 – Recuperar tarefas excluídas (lixeira)
+- RF13 – Exportar/importar lista de tarefas
+- RF14 – Definir subtarefas ou checklists
 
 ## Requisitos Não Funcionais
 - RNF01 – Interface simples e intuitiva
